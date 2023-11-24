@@ -1,0 +1,342 @@
+Mono path[0] = 'D:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data/Managed'
+Mono config path = 'D:/Program Files (x86)/Steam/steamapps/common/Lethal Company/MonoBleedingEdge/etc'
+[Physics::Module] Initialized MultithreadedJobDispatcher with 3 workers.
+Initialize engine version: 2022.3.9f1 (ea401c316338)
+[Subsystems] Discovering subsystems at path D:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2489)
+    Vendor:   NVIDIA
+    VRAM:     8038 MB
+    Driver:   31.0.15.4601
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  8.900 seconds
+- Finished resetting the current domain, in  0.010 seconds
+<RI> Initializing input.
+New input system (experimental) initialized
+Using Windows.Gaming.Input
+<RI> Initialized touch support.
+UnloadTime: 57.410400 ms
+Changing gamma
+override float value: -0.25
+Overriding float
+Gamma changed
+Set gamma to new value: -0.25; (0.00, 0.00, 0.00, -0.25) (True)
+Saving changed settings
+Changing gamma
+override float value: -0.25
+Overriding float
+Gamma changed
+Set gamma to new value: -0.25; (0.00, 0.00, 0.00, -0.25) (True)
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.527700 ms
+subcribing to steam callbacks
+Changing gamma
+override float value: -0.25
+Overriding float
+Gamma changed
+Set gamma to new value: -0.25; (0.00, 0.00, 0.00, -0.25) (True)
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 10456.
+Total: 30.537500 ms (FindLiveObjects: 0.643900 ms CreateObjectMapping: 1.250200 ms MarkObjects: 28.375300 ms  DeleteObjects: 0.267400 ms)
+
+[FacepunchTransport] - Initialized access to Steam Relay Network.
+[FacepunchTransport] - Fetched user Steam ID.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.315300 ms
+Set version num
+Changing gamma
+override float value: -0.25
+Overriding float
+Gamma changed
+Set gamma to new value: -0.25; (0.00, 0.00, 0.00, -0.25) (True)
+T
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 11735.
+Total: 7.137200 ms (FindLiveObjects: 0.534600 ms CreateObjectMapping: 0.602000 ms MarkObjects: 5.876700 ms  DeleteObjects: 0.123800 ms)
+
+[Dissonance:Core] (14:43:42.157) DissonanceComms: Loading default playback prefab
+[Dissonance:Core] (14:43:42.305) DissonanceComms: Starting Dissonance Voice Comms (8.0.4)
+- Network: [DissonanceSetup (Dissonance.Integrations.Unity_NFGO.NfgoCommsNetwork)]
+- Quality Settings: [Quality: Medium, FrameSize: Small, FEC: True, DenoiseAmount: Moderate, RNN: False (0.65) VoiceDuckLevel: 1 VAD: MediumSensitivity]
+- Codec: [Codec: Opus, FrameSize: 960, SampleRate: 48kHz]
+[Netcode] ShutdownInternal
+Leaving current lobby
+Disconnecting and setting networkobjects to destroy with owner
+Server is not active; quitting to main menu
+UnloadTime: 5.201500 ms
+Set version num
+Changing gamma
+override float value: -0.25
+Overriding float
+Gamma changed
+Set gamma to new value: -0.25; (0.00, 0.00, 0.00, -0.25) (True)
+T
+Setting up 2 worker threads for Enlighten.
+unsubscribing from steam callbacks
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 31533 frames, [8.0 KB-16.0 KB]: 6 frames, [16.0 KB-32.0 KB]: 2 frames, [0.5 MB-1.0 MB]: 1 frames, [1.0 MB-2.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 8.0 MB
+      Peak Allocated Bytes 7.9 MB
+      Overflow Count 3
+    [ALLOC_TEMP_Background Job.worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 420.0 KB
+      Peak Allocated Bytes 415.1 KB
+      Overflow Count 54
+    [ALLOC_TEMP_Background Job.worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 13.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 2
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 17.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 3
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 138 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 17.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_HIDInput]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 10.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 336 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 244
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 10 Subsections = 10240 buckets. Failed count: 5793
+        32B: 35 Subsections = 17920 buckets. Failed count: 6556
+        48B: 73 Subsections = 24917 buckets. Failed count: 121695
+        64B: 42 Subsections = 10752 buckets. Failed count: 5269
+        80B: 34 Subsections = 6963 buckets. Failed count: 847
+        96B: 31 Subsections = 5290 buckets. Failed count: 401587
+        112B: 19 Subsections = 2779 buckets. Failed count: 1389
+        128B: 12 Subsections = 1536 buckets. Failed count: 6554
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [32.0 MB-64.0 MB]: 31544 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 3
+      Peak Allocated memory 50.3 MB
+      Peak Large allocation bytes 8.0 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 15465 frames, [128.0 MB-256.0 MB]: 16079 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 11
+      Peak Allocated memory 187.3 MB
+      Peak Large allocation bytes 24.2 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 12
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 10 Subsections = 10240 buckets. Failed count: 5793
+        32B: 35 Subsections = 17920 buckets. Failed count: 6556
+        48B: 73 Subsections = 24917 buckets. Failed count: 121695
+        64B: 42 Subsections = 10752 buckets. Failed count: 5269
+        80B: 34 Subsections = 6963 buckets. Failed count: 847
+        96B: 31 Subsections = 5290 buckets. Failed count: 401587
+        112B: 19 Subsections = 2779 buckets. Failed count: 1389
+        128B: 12 Subsections = 1536 buckets. Failed count: 6554
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [64.0 KB-128.0 KB]: 15464 frames, [128.0 KB-256.0 KB]: 16079 frames, [256.0 KB-0.5 MB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 298.1 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 15465 frames, [4.0 MB-8.0 MB]: 16079 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 6.1 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 35
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 10 Subsections = 10240 buckets. Failed count: 5793
+        32B: 35 Subsections = 17920 buckets. Failed count: 6556
+        48B: 73 Subsections = 24917 buckets. Failed count: 121695
+        64B: 42 Subsections = 10752 buckets. Failed count: 5269
+        80B: 34 Subsections = 6963 buckets. Failed count: 847
+        96B: 31 Subsections = 5290 buckets. Failed count: 401587
+        112B: 19 Subsections = 2779 buckets. Failed count: 1389
+        128B: 12 Subsections = 1536 buckets. Failed count: 6554
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [32.0 MB-64.0 MB]: 31543 frames, [64.0 MB-128.0 MB]: 1 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 14
+      Peak Allocated memory 84.1 MB
+      Peak Large allocation bytes 33.1 MB
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [0.5 MB-1.0 MB]: 15465 frames, [8.0 MB-16.0 MB]: 16079 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 4
+      Peak Allocated memory 11.4 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 10 Subsections = 10240 buckets. Failed count: 5793
+        32B: 35 Subsections = 17920 buckets. Failed count: 6556
+        48B: 73 Subsections = 24917 buckets. Failed count: 121695
+        64B: 42 Subsections = 10752 buckets. Failed count: 5269
+        80B: 34 Subsections = 6963 buckets. Failed count: 847
+        96B: 31 Subsections = 5290 buckets. Failed count: 401587
+        112B: 19 Subsections = 2779 buckets. Failed count: 1389
+        128B: 12 Subsections = 1536 buckets. Failed count: 6554
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 31544 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 62.4 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [8.0 KB-16.0 KB]: 15465 frames, [16.0 KB-32.0 KB]: 16079 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 19.3 KB
+      Peak Large allocation bytes 0 B
