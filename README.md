@@ -2,7 +2,7 @@
 Lil Bros' save files
 
 SAVE FILES LIVE HERE:
-C:\Users\***YOUR USER***\AppData\LocalLow\ZeekerssRBLX\Lethal Company
+C:\Users\YOUR USER\AppData\LocalLow\ZeekerssRBLX\Lethal Company
 
 SAVE FILE 1: USSC Nostramus; 4 players: Celo, Elder, Lil bro
 
